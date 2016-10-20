@@ -1,0 +1,4 @@
+D:\Extended\long-encode\long-encode\bin\Debug\long-encode.exe
+D:\Extended\long-encode\long-encode\bin\Debug\long-encode.pdb
+D:\Extended\long-encode\long-encode\obj\Debug\long-encode.exe
+D:\Extended\long-encode\long-encode\obj\Debug\long-encode.pdb
